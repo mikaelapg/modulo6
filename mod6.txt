@@ -1,0 +1,11 @@
+1. Acordo e desligo o despertador
+2. Após desligar o despertador, levanto
+3. Viro a direita 
+4. Entro no banheiro
+5. Abro a torneira e lavo o rosto
+6. Após lavar o rosto, pego a escova de dentes
+7. Após pegar a escova de dentes, pego a pasta de dente
+8. Após pegar a pasta de dente, escovo os dentes
+9. Viro a esquerda, entro no escritório
+10. Após entrar no escritório, abro o notebook
+11. Após abrir o notebook, começo a trabalhar 
